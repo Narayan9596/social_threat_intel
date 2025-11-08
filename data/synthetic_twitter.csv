@@ -1,0 +1,6 @@
+post_id,user_id,text,followers,following,tweets_count,account_age_days,retweets,likes,posts_per_day,created_at,label
+1,10,"BREAKING shocking news claim today",50,20,5,3,0,0,0.2,2024-10-01,1
+2,11,"normal tweet about daily life",230,180,400,300,4,3,1.1,2024-09-15,0
+3,12,"exclusive watch now leaked report",5,2,2,1,100,200,0.5,2024-10-05,1
+4,13,"just chilling and going to college",500,400,2500,1800,5,8,2.0,2024-08-25,0
+5,14,"rumor unverified shocking insider info",15,6,10,4,10,15,0.3,2024-10-10,1
